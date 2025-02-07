@@ -1,0 +1,1 @@
+This example demonstrates a common Python TypeError caused by attempting to add an integer and a string. The solution showcases how to handle this using type checking or conversion to ensure that the function is robust and handles various inputs without errors.
